@@ -1,6 +1,6 @@
 # Dual Learning in NLP
 
-<p>Numbered list:</p>
+<p>Paper list:</p>
 
 <ol>
 <li>Multi-step reasoning via recurrent dual attention for visual dialog</li>
